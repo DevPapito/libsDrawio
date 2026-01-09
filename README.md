@@ -1,4 +1,4 @@
-# Libs to webapp draw.io
+# Libs to web app draw.io
 
 ## Libs list
 
